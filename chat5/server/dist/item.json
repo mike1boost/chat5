@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "type": "group",
+    "parent": null
+  },
+  {
+    "id": "2",
+    "type": "group",
+    "parent": "1"
+  },
+  {
+    "id": "3",
+    "type": "group",
+    "parent": "1"
+  }
+]
