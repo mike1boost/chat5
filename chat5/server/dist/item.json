@@ -1,0 +1,1 @@
+[{"id":"1","type":"group","parent":null},{"id":"2","type":"group","parent":"1"},{"id":"3","type":"group","parent":"1"},{"id":"33","parent":"2","type":"user"},{"id":"10","parent":"2","type":"user"},{"id":"22","parent":"1","type":"user"},{"id":"12","parent":"3","type":"user"},{"id":"77","parent":"1","type":"user"},{"id":"12","parent":"3","type":"user"}]
